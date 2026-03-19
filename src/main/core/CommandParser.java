@@ -6,7 +6,7 @@ import java.util.List;
 
 public class CommandParser {
 
-	/*
+	/**
 	 * splits the raw input into name command and args
 	 * 
 	 * @param rawInput users input
@@ -27,7 +27,7 @@ public class CommandParser {
 
 	}
 
-	/*
+	/**
 	 * Checks if the input is empty
 	 * 
 	 * @param s input received from user
