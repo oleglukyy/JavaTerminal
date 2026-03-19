@@ -1,0 +1,15 @@
+# compilados
+*.class
+
+# carpeta compilación
+bin/
+
+# eclipse
+.classpath
+.project
+.settings/
+
+# sistema
+.DS_Store
+Thumbs.db
+
